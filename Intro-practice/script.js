@@ -1,0 +1,1 @@
+alert("Its just a basic structure")
